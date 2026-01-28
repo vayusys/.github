@@ -1,1 +1,1 @@
-We synthesize distributed intelligence from ambient compute with instantaneous inference.
+Vayu is an operating system built for autonomous AI agents.
